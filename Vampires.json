@@ -1,0 +1,79 @@
+{
+    "Classic Literary Vampires": [
+        "Count Dracula (Dracula)",
+        "Carmilla Karnstein (Carmilla)",
+        "Lord Ruthven (The Vampyre)",
+        "Varney the Vampire (Varney the Vampire; or, the Feast of Blood)",
+        "Clara Fevrale (The Mysterious Stranger)"
+    ],
+    "Victorian Era Vampires": [
+        "Dracula's Brides (Dracula)",
+        "Lucy Westenra (Dracula)",
+        "Mircalla, Countess Karnstein (Carmilla)",
+        "Sir Francis Varney (Varney the Vampire)",
+        "The Vampire Lady (The Vampire Lady)"
+    ],
+    "Modern Literary Vampires": [
+        "Louis de Pointe du Lac (Interview with the Vampire)",
+        "Lestat de Lioncourt (The Vampire Chronicles)",
+        "Akasha (Queen of the Damned)",
+        "Santino (The Vampire Chronicles)",
+        "David Talbot (The Vampire Chronicles)"
+    ],
+    "Gothic Romance Vampires": [
+        "Rhys Williams (Sunshine)",
+        "Julian (The Historian)",
+        "Henry Fitzroy (Blood Price series)",
+        "Catherine de Medici (The Queen of the Damned)",
+        "Magnus (The Vampire Chronicles)"
+    ],
+    "Urban Fantasy Vampires": [
+        "Eric Northman (The Southern Vampire Mysteries)",
+        "Bill Compton (The Southern Vampire Mysteries)",
+        "Jean-Claude (Anita Blake: Vampire Hunter)",
+        "Edward Cullen (Twilight)",
+        "Angel (Buffy the Vampire Slayer/Angel)"
+    ],
+    "Children's Literature Vampires": [
+        "Bunnicula (Bunnicula)",
+        "Count von Count (Sesame Street)",
+        "Oskar von Horrificus Clay (The Little Vampire)",
+        "Madame Polidori (Young Dracula)",
+        "Vladamir Dracula (Hotel Transylvania)"
+    ],
+    "Poetic Vampires": [
+        "The Vampire (John Polidori's poem)",
+        "La Belle Dame sans Merci (John Keats' poem, interpreted as vampiric)",
+        "Lenore (Gottfried August Bürger's poem, often adapted to feature vampires)",
+        "The Phantom Ship (Richard Middleton's poem)",
+        "The Vampire Bride (Samuel Taylor Coleridge)"
+    ],
+    "Short Story Vampires": [
+        "Count Magnus (M.R. James)",
+        "The Room in the Tower (E.F. Benson)",
+        "The Drifting Snow (August Derleth)",
+        "The Man Upstairs (Ray Bradbury)",
+        "Popsy (Stephen King)"
+    ],
+    "Historical Fiction Vampires": [
+        "Elizabeth Bathory (various novels)",
+        "Vlad the Impaler (various novels)",
+        "Isabella of Castile (The Historian)",
+        "Caligula (various interpretations)",
+        "Nero (various interpretations)"
+    ],
+    "Parody and Satirical Vampires": [
+        "Count Duckula (Count Duckula)",
+        "Grandpa Munster (The Munsters)",
+        "Blacula (Blacula)",
+        "Nadja (What We Do in the Shadows)",
+        "Laszlo Cravensworth (What We Do in the Shadows)"
+    ],
+    "Anime/Manga Vampires": [
+        "Alucard (Hellsing)",
+        "Dio Brando (JoJo's Bizarre Adventure)",
+        "Mina Tepes (Dance in the Vampire Bund)",
+        "Kuran Kaname (Vampire Knight)",
+        "Kiss-shot Acerola-orion Heart-under-blade (Monogatari)"
+    ]
+}
